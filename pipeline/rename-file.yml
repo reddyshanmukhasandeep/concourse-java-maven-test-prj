@@ -7,7 +7,7 @@ image_resource:
     tag: latest
 
 inputs:
-  - name: time
+  - name: time2
   - name: jar-file
 
 outputs:
